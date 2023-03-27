@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIFormation", "APIFormation\APIFormation.csproj", "{B62E68CB-F995-493F-9ADE-D9D09FAEA706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{3052EF87-FBD8-49C5-AED6-08D04FBF200C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{AE1E91DB-A59D-48CD-B993-32F2FCD3242D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62E68CB-F995-493F-9ADE-D9D09FAEA706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62E68CB-F995-493F-9ADE-D9D09FAEA706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62E68CB-F995-493F-9ADE-D9D09FAEA706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62E68CB-F995-493F-9ADE-D9D09FAEA706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3052EF87-FBD8-49C5-AED6-08D04FBF200C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3052EF87-FBD8-49C5-AED6-08D04FBF200C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3052EF87-FBD8-49C5-AED6-08D04FBF200C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3052EF87-FBD8-49C5-AED6-08D04FBF200C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1E91DB-A59D-48CD-B993-32F2FCD3242D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1E91DB-A59D-48CD-B993-32F2FCD3242D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1E91DB-A59D-48CD-B993-32F2FCD3242D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1E91DB-A59D-48CD-B993-32F2FCD3242D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15770DCE-A856-4BAD-BCE4-4EC15F792F1F}
+	EndGlobalSection
+EndGlobal
